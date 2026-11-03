@@ -1,5 +1,5 @@
 ---
-title: '"So what? Let's find out then."'
+title: '\"So what? Let's find out then.\"'
 date: 2026-11-03
 permalink: /posts/2026/11/so-what-let-s-find-out-then/
 tags:
@@ -73,12 +73,12 @@ mentioning it as one of his research agendas, I went "Oh." That there is faculty
 doing work on that makes my thoughts feel legit and 'un-sinful'.
 
 That probably says something about the way I view titles and career achievements
-as legitimising in itself. It also represents yet another thing I have to unpack
-about my view of science as 'only legitimate when it is boringly iterative'. My
-first thought is that it might just be a coping mechanism to alleviate my
-feeling of inadequacy at being 'unable to imagine novel approaches to
-understanding political phenomena'. As the above exercise has illuminated, that
-may be deceptively easy to solve.
+as legitimising in and of itself. It also represents yet another thing I have to
+unpack about my view of science as 'only legitimate when it is boringly
+iterative'. My first thought is that it might just be a coping mechanism to
+alleviate my feeling of inadequacy at being 'unable to imagine novel approaches
+to understanding political phenomena'. As the above exercise has illuminated,
+that may be deceptively easy to solve.
 
 I plan to cultivate a habit of entertaining my fleeting thoughts, acknowledging
 that they may be uninformed or wrong, and then going "So what? Let's find out
