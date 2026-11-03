@@ -33,12 +33,11 @@ TIEM, causal inference, formal modelling
 
 Skills
 ======
-* R (Tidyverse, Shiny)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R 
+  * Tidyverse
+  * Shiny
+* LaTeX
+* Typst
 
 Publications
 ======
