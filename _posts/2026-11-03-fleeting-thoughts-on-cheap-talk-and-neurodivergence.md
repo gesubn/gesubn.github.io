@@ -15,11 +15,10 @@ My mind flooded with dopamine as metascience and formal theory are two of my
 pet interests. After that subsided, though, I looked inward and found
 perplexion.
 
-I find this interesting because it reminds me that there \*is\* this alien,
-neuronormative social realm out there, because 'cheap talk' is an oxymoron to
-me. My specific flavour of neurodivergence makes it such that I incur mental
-anguish when I flake. I make promises in order to bind myself to a commitment,
-for crying out loud.
+It reminded me that there \*is\* this alien, neuronormative social realm out
+there, because 'cheap talk' is an oxymoron to me. My specific flavour of
+neurodivergence makes it such that I incur mental anguish when I flake. I make
+promises in order to bind myself to a commitment, for crying out loud.
 
 For the same reason, I’ve also become somewhat of a blind advocate of
 pre-registration: I only have my perspective, and I genuinely feel like my hands
