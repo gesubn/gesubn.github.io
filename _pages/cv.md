@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MA in Political Science, University of Mannheim, 2028 (expected)
+* BSc (Hons) in Politics, Psychology, Law and Economics (PPLE), University of Amsterdam, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan-Apr 2026: Research intern
+  * **Centre for Strategic and International Studies (CSIS) Indonesia**, Jakarta, Indonesia
+  * Comparative research on proportional electoral systems
+  * Research on Indonesia's domestic electoral system
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jul-Aug 2025: Research intern
+  * **Populi Center**, Jakarta, Indonesia
+  * Wrote a paper on the influence of political/economic factors on environmental beliefs in Indonesia using in-house data
+  * Learnt factor analysis, multiple imputation, structural equation modelling, and survey weighting techniques
+  * Participated in discussions on survey design for a national survey and contributed with my own experience working with prior data
   
+Methodological interests
+======
+TIEM, causal inference, formal modelling
+
 Skills
 ======
-* Skill 1
+* R (Tidyverse, Shiny)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ...
