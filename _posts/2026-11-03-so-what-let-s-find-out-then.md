@@ -1,5 +1,5 @@
 ---
-title: '\"So what? Let's find out then.\"'
+title: 'So what? Let's find out then.'
 date: 2026-11-03
 permalink: /posts/2026/11/so-what-let-s-find-out-then/
 tags:
@@ -9,11 +9,12 @@ tags:
 ---
 
 I've had a long history of struggling to devise research questions. I also
-rarely feel provoked or 'incensed' (to quote Geddes) by the articles I read,
-almost reading them like gospel. Throughout my first two months of grad school,
-I've been unpacking this 'lack of criticality'. I'm currently entertaining a
-hypothesis that it is a 'lack of curiosity'. There's this good example from
-rather recent memory:
+rarely feel provoked or 'indignant, annoyed, and irritated' (to quote [Barbara
+Geddes](https://press.umich.edu/Books/P/Paradigms-and-Sand-Castles)) by the
+articles I read, almost reading them like gospel. Throughout my first two months
+of grad school, I've been unpacking this 'lack of criticality'. I'm currently
+entertaining a hypothesis that it is a 'lack of curiosity'. There's this good
+example from rather recent memory:
 
 I recently realised that I find it easier to pinpoint my own ‘lacunae of
 understanding’ when the theory is explicated in formal/mathematical language.
@@ -21,7 +22,7 @@ Now, that is in itself an interesting realisation, because it dovetails nicely
 with my feeling at ease with formal theory and my difficulty engaging deeply
 with non-formal political theory.
 
-But reflecting on how I processed it revealed a lot more. I responded to that
+But mulling over how I processed it revealed a lot more. I responded to that
 thought by picturing scenarios of me sharing it in conversation. I *instantly*
 went for the ‘note that this is just me and I'm not speaking for anyone else’ 
 disclaimer route, without further interest in exploring whether it's in any way
@@ -55,9 +56,15 @@ for every idea that makes it to publication. I have to remind myself that pretty
 much all scientists are like this; I just never see them down in the doldrums of
 ideation hell. Second, the fact that my postulate only works in highly
 restrictive circumstances *can* (though of course not always) itself say
-something interesting. This is kind of *the* thing formal modelling does.
+something interesting. This is kinda *the* thing formal modelling is known for.
 
-Some extra thoughts: I have a fear of being perceived as 'not having done my due
+The second punchline: I ought to cultivate a habit of entertaining my fleeting
+thoughts, acknowledging that they may be uninformed or wrong, and then going "So
+what? Let's find out then."
+
+Some extra thoughts
+======
+I have a fear of being perceived as 'not having done my due
 diligence'. Admittedly I harbour a very strong dislike for people who fit the
 bill, but it also affects my self-image whenever I'm on the receiving end of
 such an accusation. So debilitating is the thought that I go on long chains of
@@ -79,7 +86,3 @@ iterative'. My first thought is that it might just be a coping mechanism to
 alleviate my feeling of inadequacy at being 'unable to imagine novel approaches
 to understanding political phenomena'. As the above exercise has illuminated,
 that may be deceptively easy to solve.
-
-I plan to cultivate a habit of entertaining my fleeting thoughts, acknowledging
-that they may be uninformed or wrong, and then going "So what? Let's find out
-then."

@@ -29,7 +29,7 @@ notebook, and a heap of scrap paper all in one.
 
 I'm also in the early stages of creating learning aids for classes I've taken,
 like [this Shiny app](https://github.com/tatacrea/game-theory-shiny) I made for
-Game Theory. Feel free to check them out and *give me feedback*!
+Game Theory. Feel free to check them out and let me know what you think!
 
 I also do photography on and off. You can see my photos
 [here](https://www.flickr.com/people/195727963@N02/).
