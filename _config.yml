@@ -23,6 +23,7 @@ repository               : "tatacrea/tatacrea.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  avatar           : "hk.jpeg"
   name             : "Kayla Simorangkir"
   pronouns         : "she/they"  
   bio              : "Political Science MA student"
