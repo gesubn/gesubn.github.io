@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
 Education
 ======
 * MA in Political Science, University of Mannheim, 2028 (expected)
