@@ -29,34 +29,14 @@ Work experience
   
 Methodological interests
 ======
-TIEM, causal inference, formal modelling
+Causal inference, formal modelling, TIEM
+
+Substantive interests
+======
+Non-programmatic micropolitics
 
 Skills
 ======
-* R 
-  * Tidyverse
-  * Shiny
+* R (Tidyverse, Shiny)
 * LaTeX
 * Typst
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* ...
